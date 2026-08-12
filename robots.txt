@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zaq428.diana4dils.cyou/sitemap.xml
